@@ -69,7 +69,7 @@ onMounted(async () => {
   }
   &__map {
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 900px;
     height: 500px;
   }
 }
